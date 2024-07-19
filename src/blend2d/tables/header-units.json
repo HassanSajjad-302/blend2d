@@ -1,0 +1,6 @@
+{
+    "BuildAsHeaderUnits": [
+        "tables_p.h"
+    ],
+    "Version": "1.0"
+}

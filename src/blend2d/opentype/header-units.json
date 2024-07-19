@@ -1,0 +1,20 @@
+{
+    "BuildAsHeaderUnits": [
+        "otcff_p.h",
+        "otcmap_p.h",
+        "otcore_p.h",
+        "otdefs_p.h",
+        "otface_p.h",
+        "otglyfsimddata_p.h",
+        "otglyfsimdimpl_p.h",
+        "otglyf_p.h",
+        "otkern_p.h",
+        "otlayoutcontext_p.h",
+        "otlayouttables_p.h",
+        "otlayout_p.h",
+        "otmetrics_p.h",
+        "otname_p.h",
+        "otplatform_p.h"
+    ],
+    "Version": "1.0"
+}

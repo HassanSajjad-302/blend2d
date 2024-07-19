@@ -1,0 +1,26 @@
+{
+    "BuildAsHeaderUnits": [
+        "compoppart_p.h",
+        "compoputils_p.h",
+        "fetchgradientpart_p.h",
+        "fetchpart_p.h",
+        "fetchpatternpart_p.h",
+        "fetchpixelptrpart_p.h",
+        "fetchsolidpart_p.h",
+        "fetchutilsbilinear_p.h",
+        "fetchutilscoverage_p.h",
+        "fetchutilsinlineloops_p.h",
+        "fetchutilspixelaccess_p.h",
+        "fetchutilspixelgather_p.h",
+        "fillpart_p.h",
+        "jitbase_p.h",
+        "pipecompiler_p.h",
+        "pipecomposer_p.h",
+        "pipedebug_p.h",
+        "pipefunction_p.h",
+        "pipegenruntime_p.h",
+        "pipepart_p.h",
+        "pipeprimitives_p.h"
+    ],
+    "Version": "1.0"
+}

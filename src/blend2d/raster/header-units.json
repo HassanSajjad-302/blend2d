@@ -1,0 +1,27 @@
+{
+    "BuildAsHeaderUnits": [
+        "analyticrasterizer_p.h",
+        "debugging_p.h",
+        "edgebuilder_p.h",
+        "edgestorage_p.h",
+        "rastercontextops_p.h",
+        "rastercontext_p.h",
+        "rasterdefs_p.h",
+        "renderbatch_p.h",
+        "rendercommandprocasync_p.h",
+        "rendercommandprocsync_p.h",
+        "rendercommand_p.h",
+        "renderfetchdata_p.h",
+        "renderjobproc_p.h",
+        "renderjob_p.h",
+        "renderqueue_p.h",
+        "rendertargetinfo_p.h",
+        "statedata_p.h",
+        "styledata_p.h",
+        "workdata_p.h",
+        "workermanager_p.h",
+        "workerproc_p.h",
+        "workersynchronization_p.h"
+    ],
+    "Version": "1.0"
+}

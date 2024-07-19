@@ -1,0 +1,10 @@
+{
+    "BuildAsHeaderUnits": [
+        "simdarm_p.h",
+        "simdbase_p.h",
+        "simdx86_p.h",
+        "simd_p.h",
+        "simd_test_p.h"
+    ],
+    "Version": "1.0"
+}

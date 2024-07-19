@@ -1,0 +1,8 @@
+{
+    "BuildAsHeaderUnits": [
+        "blend2d-debug.h",
+        "blend2d-impl.h",
+        "blend2d.h"
+    ],
+    "Version": "1.0"
+}

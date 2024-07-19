@@ -1,0 +1,9 @@
+{
+    "BuildAsHeaderUnits": [
+        "checksum_p.h",
+        "deflatedecoder_p.h",
+        "deflatedefs_p.h",
+        "deflateencoder_p.h",
+    ],
+    "Version": "1.0"
+}

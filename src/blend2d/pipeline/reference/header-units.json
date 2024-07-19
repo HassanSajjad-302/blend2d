@@ -1,0 +1,11 @@
+{
+    "BuildAsHeaderUnits": [
+        "compopgeneric_p.h",
+        "fetchgeneric_p.h",
+        "fillgeneric_p.h",
+        "fixedpiperuntime_p.h",
+        "pixelbufferptr_p.h",
+        "pixelgeneric_p.h"
+    ],
+    "Version": "1.0"
+}

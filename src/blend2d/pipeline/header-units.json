@@ -1,0 +1,7 @@
+{
+    "BuildAsHeaderUnits": [
+        "pipedefs_p.h",
+        "piperuntime_p.h"
+    ],
+    "Version": "1.0"
+}

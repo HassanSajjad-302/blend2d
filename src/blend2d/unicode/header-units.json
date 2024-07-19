@@ -1,0 +1,6 @@
+{
+    "BuildAsHeaderUnits": [
+        "unicode_p.h"
+    ],
+    "Version": "1.0"
+}

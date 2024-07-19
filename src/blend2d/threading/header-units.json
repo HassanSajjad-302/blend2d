@@ -1,0 +1,14 @@
+{
+    "BuildAsHeaderUnits": [
+        "atomic_p.h",
+        "conditionvariable_p.h",
+        "futex_p.h",
+        "mutex_p.h",
+        "threadingutils_p.h",
+        "threadpool_p.h",
+        "thread_p.h",
+        "tsanutils_p.h",
+        "uniqueidgenerator_p.h"
+    ],
+    "Version": "1.0"
+}

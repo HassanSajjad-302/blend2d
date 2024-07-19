@@ -1,0 +1,28 @@
+{
+    "BuildAsHeaderUnits": [
+        "algorithm_p.h",
+        "arenaallocator_p.h",
+        "arenabitarray_p.h",
+        "arenahashmap_p.h",
+        "arenalist_p.h",
+        "arenatree_p.h",
+        "bitops_p.h",
+        "fixedarray_p.h",
+        "fixedbitarray_p.h",
+        "hashops_p.h",
+        "intops_p.h",
+        "lookuptable_p.h",
+        "mathconst_p.h",
+        "math_p.h",
+        "memops_p.h",
+        "ptrops_p.h",
+        "scopedallocator_p.h",
+        "scopedbuffer_p.h",
+        "stringops_p.h",
+        "traits_p.h",
+        "vecops_p.h",
+        "wrap_p.h",
+        "zeroallocator_p.h"
+    ],
+    "Version": "1.0"
+}

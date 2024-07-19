@@ -1,0 +1,12 @@
+{
+    "BuildAsHeaderUnits": [
+        "bmpcodec_p.h",
+        "jpegcodec_p.h",
+        "jpeghuffman_p.h",
+        "jpegops_p.h",
+        "pngcodec_p.h",
+        "pngops_p.h",
+        "qoicodec_p.h"
+    ],
+    "Version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+    "BuildAsHeaderUnits": [
+        "funcs_p.h",
+        "scalar_p.h"
+    ],
+    "Version": "1.0"
+}
